@@ -167,7 +167,7 @@ paths:
     get:
       summary: List available versions for a platform.
       description: |
-        List all available R buidls for a platform and architecture.
+        List all available R builds for a platform and architecture.
       responses:
         '200':
           description: Successful query.
